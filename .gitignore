@@ -1,0 +1,11 @@
+# Python stuff
+.ipynb_checkpoints
+__pycache__/
+.cache
+
+# IDE settings
+.vscode
+.idea
+
+# Datasets
+data/
